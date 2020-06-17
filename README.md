@@ -3,7 +3,7 @@ Modified U-Net([MICCAI 2015](https://arxiv.org/abs/1505.04597)) for refining the
 
 ## Stereo Image Generation
 ### Bilinear Sampler
-Using bilinear sampler in monodepth network([CVPR 2017](https://arxiv.org/abs/1609.03677))
+Using bilinear sampler([NIPS2015](https://papers.nips.cc/paper/5854-spatial-transformer-networks)) in monodepth network([CVPR 2017](https://arxiv.org/abs/1609.03677))
 
 ### Results
 Code : [colab](https://colab.research.google.com/drive/1XMEdilKSPpxdYobQnIfAXcCvQdNCS34F?usp=sharing)  
