@@ -2,7 +2,7 @@
 Modified U-Net([MICCAI 2015](https://arxiv.org/abs/1505.04597)) for refining the approximated stereo images by utilizing SloMo's flow approximated network([CVPR 2018](https://arxiv.org/abs/1712.00080))
 
 ## Stereo Image Generation
-### Bilinear Sampler(Input Data)
+### Bilinear Sampler
 Using bilinear sampler in monodepth network([CVPR 2017](https://arxiv.org/abs/1609.03677))
 
 ### Results
